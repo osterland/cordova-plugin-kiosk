@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-kiosk",
+  "version": "1.0.0",
+  "description": "Cordova Kiosk Mode ==================",
+  "main": "kiosk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playsignage/cordova-plugin-kiosk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playsignage/cordova-plugin-kiosk/issues"
+  },
+  "homepage": "https://github.com/playsignage/cordova-plugin-kiosk#readme"
+}
